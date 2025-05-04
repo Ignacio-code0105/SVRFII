@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "h7": {}
+    },
+    "attributes": {
+        "arc": {
+            "context": "img"
+        },
+        "value": {
+            "context": "textarea"
+        }
+    }
+}
